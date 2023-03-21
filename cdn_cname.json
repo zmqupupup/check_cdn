@@ -1,0 +1,553 @@
+[
+    {
+        "name": "星域CDN",
+        "cname_domain": [
+            "00cdn.com"
+        ]
+    },
+    {
+        "name": "世纪互联CDN",
+        "cname_domain": [
+            "21cvcdn.com",
+            "21okglb.cn",
+            "21speedcdn.com",
+            "21vianet.com.cn",
+            "21vokglb.cn",
+            "okglb.com",
+            "okcdn.com"
+        ]
+    },
+    {
+        "name": "百度云加速CDN",
+        "cname_domain": [
+            "jomodns.com",
+            "bdydns.com",
+            "yunjiasu-cdn.net",
+            "shifen.com"
+        ]
+    },
+    {
+        "name": "阿里云CDN",
+        "cname_domain": [
+            "kunlunpi.com",
+            "alikunlun.com",
+            "kunlunea.com",
+            "kunlunca.com",
+            "yundunwaf3.com",
+            "yundunwaf4.com",
+            "yundunwaf5.com",
+            "yundunwaf1.com",
+            "yundunwaf2.com",
+            "cdngslb.com",
+            "kunluncan.com",
+            "tbcache.com",
+            "alicdn.com",
+            "alicloudlayer.com",
+            "aliyun-inc.com",
+            "alicloudsec.com",
+            "aliyuncs.com",
+            "myalicdn.com",
+            "alivecdn.com",
+            "ialicdn.com",
+            "gslb.tbcache.com",
+            "kunlun.com",
+            "kunlunar.com"
+        ]
+    },
+    {
+        "name": "腾讯云CDN",
+        "cname_domain": [
+            "cdn.dnsv1.com",
+            "qcloudcjgj.com",
+            "qcloudwzgj.com",
+            "qcloudzygj.com",
+            "qcloudwaf.com",
+            "tcdn.qq.com",
+            "cdntip.com"
+        ]
+    },
+    {
+        "name": "网宿CDN",
+        "cname_domain": [
+            "wsdvs.com",
+            "lxdns.com",
+            "wswebcdn.com",
+            "wswebpic.com",
+            "mwcloudcdn.com",
+            "speedcdns.com"
+        ]
+    },
+    {
+        "name": "加速乐CDN",
+        "cname_domain": [
+            "cname.365cyd.cn",
+            "cdn.jiashule.com",
+            "jiashule.com"
+        ]
+    },
+    {
+        "name": "AkamaiCDN",
+        "cname_domain": [
+            "edgesuite.net",
+            "akadns.net",
+            "edgekey.net",
+            "akamaihd.net",
+            "akamaized.net",
+            "akamai.net",
+            "akamai-staging.net",
+            "akamai.com",
+            "akamaitech.net",
+            "akamaitechnologies.com",
+            "akamaiedge.net",
+            "ytcdn.net"
+        ]
+    },
+    {
+        "name": "帝联CDN",
+        "cname_domain": [
+            "fastcdn.com",
+            "acadn.com"
+        ]
+    },
+    {
+        "name": "广东网堤CDN",
+        "cname_domain": [
+            "2cname.com"
+        ]
+    },
+    {
+        "name": "美橙CDN",
+        "cname_domain": [
+            "cndns5.com",
+            "51hostonline.cn",
+            "websitecname.cn"
+        ]
+    },
+    {
+        "name": "又拍云CDN",
+        "cname_domain": [
+            "aicdn.com"
+        ]
+    },
+    {
+        "name": "CloudflareCDN",
+        "cname_domain": [
+            "cloudflare.net",
+            "cloudflare.com"
+        ]
+    },
+    {
+        "name": "白山云科技CDN",
+        "cname_domain": [
+            "bsgslb.cn",
+            "qingcdn.com",
+            "trpcdn.net"
+        ]
+    },
+    {
+        "name": "云盾CDN",
+        "cname_domain": [
+            "yunduncdn.com"
+        ]
+    },
+    {
+        "name": "360云加速CDN",
+        "cname_domain": [
+            "qss-lb.com",
+            "qh-cdn.com",
+            "360wzb.com"
+        ]
+    },
+    {
+        "name": "网神CDN",
+        "cname_domain": [
+            "360wzws.com",
+            "qaxwzws.com",
+            "qaxcloudwaf.com"
+        ]
+    },
+    {
+        "name": "ChinaCache",
+        "cname_domain": [
+            "51cdn.com",
+            "ccgslb.com",
+            "ccgslb.net",
+            "ccgslb.com.cn",
+            "cdn20.com",
+            "c3cdn.net",
+            "cncssr.chinacache.net",
+            "c3cache.net",
+            "chinacache.net",
+            "chinanetcenter.com",
+            "customcdn.cn",
+            "customcdn.com",
+            "wscloudcdn.com",
+            "wscdns.com",
+            "ourwebpic.com",
+            "ourwebcdn.net",
+            "lxcdn.com"
+        ]
+    },
+    {
+        "name": "亚马逊CDN",
+        "cname_domain": [
+            "amazonaws.com",
+            "elb.amazonaws.com"
+        ]
+    },
+    {
+        "name": "AnankeCDN",
+        "cname_domain": [
+            "anankecdn.com.br"
+        ]
+    },
+    {
+        "name": "VODCDN",
+        "cname_domain": [
+            "aodianyun.com"
+        ]
+    },
+    {
+        "name": "安全宝CDN",
+        "cname_domain": [
+            "aqb.so"
+        ]
+    },
+    {
+        "name": "七牛云CDN",
+        "cname_domain": [
+            "pilidns.com",
+            "qiniudns.com"
+        ]
+    },
+    {
+        "name": "CDNsun",
+        "cname_domain": [
+            "cdnsun.net"
+        ]
+    },
+    {
+        "name": "Zenedge",
+        "cname_domain": [
+            "zenedge.net"
+        ]
+    },
+    {
+        "name": "Yahoo",
+        "cname_domain": [
+            "ay1.b.yahoo.com"
+        ]
+    },
+    {
+        "name": "微软云CDN",
+        "cname_domain": [
+            "vo.msecnd.net"
+        ]
+    },
+    {
+        "name": "TelefonicaCDN",
+        "cname_domain": [
+            "cdn.telefonica.com"
+        ]
+    },
+    {
+        "name": "Tata communicationsCDN",
+        "cname_domain": [
+            "cdn.bitgravity.com"
+        ]
+    },
+    {
+        "name": "淘宝CDN",
+        "cname_domain": [
+            "gslb.taobao.com"
+        ]
+    },
+    {
+        "name": "SwiftServeCDN",
+        "cname_domain": [
+            "swiftserve.com"
+        ]
+    },
+    {
+        "name": "SwiftCDN",
+        "cname_domain": [
+            "swiftcdn1.com"
+        ]
+    },
+    {
+        "name": "SimpleCDN",
+        "cname_domain": [
+            "simplecdn.net"
+        ]
+    },
+    {
+        "name": "Reflected NetworksCDN",
+        "cname_domain": [
+            "rncdn1.com"
+        ]
+    },
+    {
+        "name": "Mirror Image",
+        "cname_domain": [
+            "cap-mii.net",
+            "mirror-image.net",
+            "instacontent.net"
+        ]
+    },
+    {
+        "name": "AzionCDN",
+        "cname_domain": [
+            "azioncdn.net"
+        ]
+    },
+    {
+        "name": "Azure CDN",
+        "cname_domain": [
+            "azureedge.net"
+        ]
+    },
+    {
+        "name": "快网CDN",
+        "cname_domain": [
+            "cachecn.com"
+        ]
+    },
+    {
+        "name": "CDN77",
+        "cname_domain": [
+            "cdn77.net",
+            "cdn77.org"
+        ]
+    },
+    {
+        "name": "CDNetworks",
+        "cname_domain": [
+            "cdnetworks.net",
+            "cdnnetworks.com",
+            "gccdn.cn",
+            "gccdn.net",
+            "cdngc.net",
+            "panthercdn.com",
+            "txnetworks.cn",
+            "txcdn.cn"
+        ]
+    },
+    {
+        "name": "CDNify",
+        "cname_domain": [
+            "cdnify.io"
+        ]
+    },
+    {
+        "name": "PowerLeaderCDN",
+        "cname_domain": [
+            "cdnudns.com",
+            "sprycdn.com"
+        ]
+    },
+    {
+        "name": "Medianova",
+        "cname_domain": [
+            "mncdn.com"
+        ]
+    },
+    {
+        "name": "StackPath",
+        "cname_domain": [
+            "stackpathdns.com"
+        ]
+    },
+    {
+        "name": "MaxCDN",
+        "cname_domain": [
+            "netdna.com",
+            "netdna-ssl.com",
+            "netdna-cdn.com"
+        ]
+    },
+    {
+        "name": "Limelight",
+        "cname_domain": [
+            "lldns.net",
+            "llnwd.net",
+            "vo.llnwd.net"
+        ]
+    },
+    {
+        "name": "LeaseWeb CDN",
+        "cname_domain": [
+            "lswcdn.net"
+        ]
+    },
+    {
+        "name": "Instartlogic",
+        "cname_domain": [
+            "insnw.net",
+            "inscname.net"
+        ]
+    },
+    {
+        "name": "Hibernia",
+        "cname_domain": [
+            "hiberniacdn.com"
+        ]
+    },
+    {
+        "name": "Google",
+        "cname_domain": [
+            "hiberniacdn.com",
+            "l.doubleclick.net",
+            "googleusercontent.com",
+            "googlesyndication"
+        ]
+    },
+    {
+        "name": "Fastly",
+        "cname_domain": [
+            "fastlylb.net",
+            "fastly.net"
+        ]
+    },
+    {
+        "name": "EdgeCast",
+        "cname_domain": [
+            "systemcdn.net",
+            "edgecastcdn.net"
+        ]
+    },
+    {
+        "name": "CDNvideo",
+        "cname_domain": [
+            "cdnvideo.ru"
+        ]
+    },
+    {
+        "name": "SuZhi",
+        "cname_domain": [
+            "cdnzz.net"
+        ]
+    },
+    {
+        "name": "LineFuture",
+        "cname_domain": [
+            "chinaidns.net",
+            "unicache.com"
+        ]
+    },
+    {
+        "name": "CnKuai",
+        "cname_domain": [
+            "cloudcdn.net",
+            "fastweb.com",
+            "fastwebcdn.com",
+            "fwcdn.com",
+            "fwdns.net",
+            "hacdn.net",
+            "hadns.net"
+        ]
+    },
+    {
+        "name": "Dnion",
+        "cname_domain": [
+            "dnion.com",
+            "ewcache.com",
+            "fastcdn.cn",
+            "globalcdn.cn",
+            "tlgslb.com"
+        ]
+    },
+    {
+        "name": "FastCache",
+        "cname_domain": [
+            "fastcache.com"
+        ]
+    },
+    {
+        "name": "Level3",
+        "cname_domain": [
+            "footprint.net",
+            "fpbns.net"
+        ]
+    },
+    {
+        "name": "万网CDN",
+        "cname_domain": [
+            "hichina.com",
+            "hichina.net"
+        ]
+    },
+    {
+        "name": "Highwinds",
+        "cname_domain": [
+            "hwcdn.net"
+
+        ]
+    },
+    {
+        "name": "Blue Hat Network",
+        "cname_domain": [
+            "bluehatnetwork.com"
+        ]
+    },
+    {
+        "name": "BelugaCDN",
+        "cname_domain": [
+            "belugacdn.com"
+        ]
+    },
+    {
+        "name": "AT&T",
+        "cname_domain": [
+            "att-dsa.net"
+        ]
+    },
+    {
+        "name": "TurboBytes",
+        "cname_domain": [
+            "turbobytes-cdn.com",
+            "clients.turbobytes.net"
+        ]
+    },
+    {
+        "name": "Webluker",
+        "cname_domain": [
+            "xgslb.net"
+        ]
+    },
+    {
+        "name": "VeryCloud",
+        "cname_domain": [
+            "verygslb.com"
+        ]
+    },
+    {
+        "name": "UCloud",
+        "cname_domain": [
+            "ucloud.cn"
+        ]
+    },
+    {
+        "name": "Presscdn",
+        "cname_domain": [
+            "presscdn.com"
+        ]
+    },
+    {
+        "name": "KeyCDN",
+        "cname_domain": [
+            "kxcdn.com"
+        ]
+    },
+    {
+        "name": "Internap",
+        "cname_domain": [
+            "internapcdn.net"
+        ]
+    },
+    {
+        "name": "Incapsula",
+        "cname_domain": [
+            "incapdns.net"
+        ]
+    }
+]
